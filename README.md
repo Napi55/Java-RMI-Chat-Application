@@ -7,7 +7,7 @@ A third-year college project 🎓 3️⃣
 ## Overview
 
 Welcome to the Java RMI Chat Application, a client-server chat platform utilizing Java Remote Method Invocation (RMI) technology. This project aims to create a seamless chat experience, allowing users to communicate in real-time using a distributed architecture.
-![ChatApp](https://github.com/Napi55/Hourly_Energy_Consumption/assets/88117366/55c2eff5-edbf-49e9-b3d1-d047c305b03b)
+![ChatApp](https://github.com/Napi55/Java-RMI-Chat-Application/assets/88117366/688b60de-c45c-47c6-8965-7da94f1853cb)
 ## Project Structure
 
 The repository includes the following directories:
