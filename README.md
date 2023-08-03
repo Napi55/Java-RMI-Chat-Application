@@ -28,7 +28,7 @@ The repository includes the following directories:
 
 To run the application:
 
-1. Start the server first (execute the `main` method in `ChatServer.java`).
+1. Start the server first (execute the `main` method in `Chat.java`).
 2. Launch a client (execute the `main` method in `ClientRMIGUI.java`).
 3. Enter a unique username to join the chat room and initiate conversations.
 
