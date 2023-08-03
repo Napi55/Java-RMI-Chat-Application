@@ -1,6 +1,6 @@
 # Java RMI Chat Application
 
-[![Report](https://img.shields.io/github/license/your-username/ava-RMI-Chat)](LICENSE)
+[![Report](https://img.shields.io/github/license/your-username/ava-RMI-Chat)](Project Report)
 
 A third-year college project 🎓 3️⃣
 
